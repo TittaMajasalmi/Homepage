@@ -1,0 +1,27 @@
+---
+title: " Home"
+
+---
+
+- __Name:__ Titta Majasalmi
+- __Nationality:__ Finnish
+- __Lives in:__ Ås, Norway
+- __Hobbies:__ DIY projects and personal development targets (e.g. sports or diet)
+- __Pet prefs:__ Dogs, cats, rabbits and chickens
+- __Favorite quotes:__ 
+
+   _"The journey of a thousand miles begins with one step."_   -Lao Tzu
+   
+   _“What people forget is a journey to nowhere starts with a single step, too.”_ ― Chuck Palahniuk
+   
+
+_“Until you step into the unknown, you don’t know what you’re made of.”_ ― Roy T. Bennett
+<br>
+<br>
+<br>
+
+<font size="2" color="purple">Me and my favourite hobby - posing with trolls..
+<h6><img  src="WorkFigs/trollpose.png" style="width:40%; border:5px solid; margin-right: 20px" align="left"/> </h6>
+
+<br/>
+<br/>

@@ -1,0 +1,38 @@
+---
+title: "  Research"
+
+---
+
+- __Occupation:__  Postdoctoral researcher
+- __Institution:__ Norwegian Institute of Bioeconomy Research ([NIBIO](https://www.nibio.no/en/))
+- __Division:__    Division for Forestry and Forest Resources, Forests and Climate
+- __Located:__     Høgskoleveien 8, 1433 Ås, Norway 
+- __Project:__     Integrating biogeophysical (BGP) mechanisms into assessments of <br/>
+               <p> boreal forest management impacts on climate
+
+<br>
+
+- __PhD degree:__  University of Helsinki (Finland), Department of Forest Sciences
+- __Expertise:__   
+    - characterization of managed forests in land (climate) models
+    - description of (boreal) forests in global land cover products
+    - fraction of absorbed Photosynthetically Active Radiation (fPAR) 
+    - National Forest Inventory (NFI) 
+    - Geographic Information System (GIS)
+    - vegetation remote sensing
+    - Leaf Area Index (LAI) 
+    - field measurements
+    - ground validation
+    - forest management 
+    - boreal forest
+    
+
+<br>
+  
+  <h6><img  src="WorkFigs/titta.jpg" width="15.1%"/>  <img src="WorkFigs/torni.jpg" width="21.7%"/>  <img src="WorkFigs/metsaspektri.jpg" width="15%"/></h6>**Fig. 1.** Fieldwork using LAI-2000 device and testing ASD spectroradiometer in <br/> Hyytiälä forestry station, Finland, 2010. I thank my colleagues for providing the images.
+  
+  <h6><img  src="WorkFigs/pastis.png" width="15.1%"/>  <img src="WorkFigs/hemisph.png" width="24.2%"/>  <img src="WorkFigs/ASD_poznan.png" width="26.7%"/></h6>**Fig. 2.** Fieldwork using PASTIS, hemispherical camera, and ASD devices. I thank my <br/> colleagues for providing the images.
+
+
+<br/>
+<br/>
