@@ -60,10 +60,19 @@ https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fo
 
 #Now we can commit
 #git commit -m "webpage modification"
+#git commit -m "webpage launch"
 
 #Now we push. Note the addendum to normal pushing
 #git push origin master
 
+
+# git init
+# git config user.name TittaMajasalmi
+# git config user.email titta.majasalmi@gmail.com
+# git add *
+# git commit -m "webpage launch"
+#git push origin master
+# ja sitten kysyy salasanaa githubin
 
 # figure plottins stuff:
 
