@@ -59,7 +59,7 @@ https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fo
 # git add -A#the -A flag tells it git you want everything
 
 #Now we can commit
-#git commit -m "webpage modification"
+#git commit -m "webpage modif."
 #git commit -m "webpage launch"
 
 #Now we push. Note the addendum to normal pushing
