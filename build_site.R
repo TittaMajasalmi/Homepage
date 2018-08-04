@@ -99,3 +99,19 @@ https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fo
   
   <h6><img  src="WorkFigs/pastis.png" width="15.1%"/>  <img src="WorkFigs/hemisph.png" width="24.2%"/>  <img src="WorkFigs/ASD_poznan.png" width="26.7%"/><br/> Fieldwork using PASTIS, hemispherical camera, and ASD devices </h6>
   
+  
+  
+  <h6><img  src="WorkFigs/titta.jpg" width="15.1%"/>  <img src="WorkFigs/torni.jpg" width="21.7%"/>  <img src="WorkFigs/metsaspektri.jpg" width="15%"/></h6>**Fig. 1.** Fieldwork using LAI-2000 device and testing ASD spectroradiometer in <br/> Hyytiälä forestry station, Finland, 2010. I thank my colleagues for providing the images.
+
+<h6><img  src="WorkFigs/pastis.png" width="15.1%"/>  <img src="WorkFigs/hemisph.png" width="24.2%"/>  <img src="WorkFigs/ASD_poznan.png" width="26.7%"/></h6>**Fig. 2.** Fieldwork using PASTIS, hemispherical camera, and ASD devices. I thank my <br/> colleagues for providing the images.
+
+
+<h6><img  src="Figs/DSC_1016_circle3.png" style="width:30%; border:5px solid; margin-right: 20px" align="left"/> </h6>
+  
+  
+  
+  <h6><img  src="Figs/Round_homrpage_images_clip.png" width="70%"/></h6>**Fig. 2.** Fieldwork using LAI-2000 device and testing ASD spectroradiometer in Hyytiälä forestry station, Finland, 2010.
+
+
+
+<h6><img  src="Figs/lower_row_homepage_figs_clip.png" width="90%"/></h6>**Fig. 3.** Fieldwork using PASTIS, hemispherical camera, and ASD devices (I thank my colleagues for providing the images for **Figs. 2.** and **3.**).

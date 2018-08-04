@@ -4,7 +4,7 @@ title: " Publications"
 ---
 
 
-__A1 Journal article (refereed), original research:__
+__Journal article (refereed), original research:__
 
 -   Majasalmi, T., Eisner, S., Astrup, R., Fridman, J., Bright, R. M. (2018). An enhanced forest classification scheme for modeling vegetation-climate interactions based on national forest inventory data. Biogeosciences, 15(2). https://doi.org/10.5194/bg-15-399-2018  
 Enhanced LC-product data repository: https://doi.org/10.21350/7zZEy5w3
@@ -21,16 +21,16 @@ Corrigendum https://doi.org/10.1016/j.agrformet.2015.01.016
 -  Rautiainen M., Mõttus M., Heiskanen J., Akujärvi A., Majasalmi T., Stenberg P., (2011). Seasonal reflectance dynamics of common understory types in a northern European boreal forest. Remote Sensing of Environment 115: 3020-3028. http://dx.doi.org/10.1016/j.rse.2011.06.005 
 
 
-__A3 Book section, chapters in research books:__
+__Book section, chapters in research books:__
 
 -   Eigemeier, E., Heiskanen, J., Rautiainen, M., Mõttus, M., Vesanto, V., Majasalmi, T., Stenberg, P. (2012). Narrowband vegetation indices for estimating boreal forest leaf area index. Remote Sensing/Book 2. Intech http://dx.doi.org/10.5772/31160 
 
 
-__E1 Popularised article, newspaper article:__
+__Popularised article, newspaper article:__
 
 -   Majasalmi, T. (2012). Satelliittikuvat pohjoisen luonnon seurannassa. In: Turjan vuonoilta Vienanmerelle: matka Kuolan niemimaan luontoon ja kulttuuriin. Vanhatalo, A., Niemelä, P., Kuuluvainen, T., Vasander, H. (toim.). Helsinki: Helsingin yliopiston metsätieteiden laitos, s. 87-94 (Helsingin yliopiston metsätieteiden laitoksen julkaisuja; vol. 4)
 
-__G5 Doctoral dissertation (article):__
+__Doctoral dissertation (article):__
 
 -   Majasalmi, T. (2015). Estimation of leaf area index and the fraction of absorbed photosynthetically active radiation in a boreal forest. Dissertationes Forestales 187, 52 p. http://dx.doi.org/10.14214/df.187
 

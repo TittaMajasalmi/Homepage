@@ -1,5 +1,5 @@
 ---
-title: "  Research"
+title: "  About"
 
 ---
 
@@ -28,10 +28,9 @@ title: "  Research"
     
 
 <br>
-  
-  <h6><img  src="WorkFigs/titta.jpg" width="15.1%"/>  <img src="WorkFigs/torni.jpg" width="21.7%"/>  <img src="WorkFigs/metsaspektri.jpg" width="15%"/></h6>**Fig. 1.** Fieldwork using LAI-2000 device and testing ASD spectroradiometer in <br/> Hyytiälä forestry station, Finland, 2010. I thank my colleagues for providing the images.
-  
-  <h6><img  src="WorkFigs/pastis.png" width="15.1%"/>  <img src="WorkFigs/hemisph.png" width="24.2%"/>  <img src="WorkFigs/ASD_poznan.png" width="26.7%"/></h6>**Fig. 2.** Fieldwork using PASTIS, hemispherical camera, and ASD devices. I thank my <br/> colleagues for providing the images.
+
+<h6><img  src="Figs/img_collection.png" width="54%"/></h6>
+Fieldwork using LAI-2000 device (a-b), camera with hemispherical lens (c), ASD spectrometer and reference <br/> panel (d,e), and PASTIS device (f).I thank my colleagues for providing the images.
 
 
 <br/>

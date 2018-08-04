@@ -6,7 +6,7 @@ navbar:
     - text: " Home"
       href: index.html
       icon: fa-home
-    - text: " Research"
+    - text: " About"
       href: about.html
       icon: fa-info
     - text: " CV"
