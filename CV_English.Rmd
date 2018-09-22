@@ -14,13 +14,17 @@
      - [Researchgate](https://www.researchgate.net/profile/Titta_Majasalmi) 
       - [LinkedIn](https://fi.linkedin.com/in/titta-majasalmi-05a11095) 
       - [University of Helsinki](https://tuhat.helsinki.fi/portal/en/persons/titta-majasalmi(df785017-27a0-4989-bf39-ef95fe8e9ba3).html) 
-      - [Google scholar](https://scholar.google.fi/citations?user=uTjEPyQAAAAJ&hl=en) 
+      - [Google scholar](https://scholar.google.fi/citations?user=uTjEPyQAAAAJ&hl=en)
+      
+- __Updated:__ Sep 22, 2018
 
 
+ 
 __1. Name and date__
   
 - Majasalmi, Titta 
 - Female
+
 
 
 __2. Nationality, current residence__
@@ -29,10 +33,12 @@ __2. Nationality, current residence__
 - Ås, Norway
 
 
+
 __3. Education and degrees awarded__
 
 -   Doctor of Science (Agriculture and Forestry), University of Helsinki, Faculty of Agriculture and Forestry, Department of Forest Sciences, Major: Forest Resource Science and Technology, 24.3.2015. 
 -   Master of Science (Agriculture and Forestry), University of Helsinki, Department of Forest Sciences, Faculty of Agriculture and Forestry, 18.3.2011 Helsinki. 
+
 
 
 __4. Other education and training, qualifications and skills__ 
@@ -47,6 +53,7 @@ __4. Other education and training, qualifications and skills__
 -   Workshop: NASA Training workshop, Quantitative research methods in human dimensions of  environmental change within Eastern Europe, Latvia, 21.8.–23.8.2010.
 
 
+
 __5. Linguistic skills__
 
 - Finnish (Native)
@@ -54,9 +61,11 @@ __5. Linguistic skills__
 - Swedish
 
 
+
 __6. Current position__
 
 -   Postdoctoral researcher, Research Council of Norway, grant number 250113/F20 (Integrating biogeophysical (BGP) mechanisms into assessments of boreal forest management impacts on climate), Norwegian Institute of Bioeconomy Research, Division for Forestry and Forest Resources, Forests and Climate, Ås, Norway, 29.8.2016-> , Job description: full research position.
+
 
 
 __7. Previous work experience__
@@ -72,16 +81,19 @@ __7. Previous work experience__
 -   Co-partner in Metsäylioppilaiden kuusikauppa K-99, 15.8.2008–15.5.2009, Job description: Selling, delivering, installing and decorating Christmas trees (<= 12m).
 -   Course assistant, University of Helsinki, Hyytiälä forestry station, 23.6.–1.8.2008, Job description: Field course of forest mensuration (4 weeks) and of wood- and forest technology (2 weeks). Teaching small groups and correcting reports.
 
-__8. Research funding as well as leadership and supervision__
 
+
+__8. Research funding, leadership and supervision__
 
 -   Field work supervisor, University of Helsinki, Hyytiälä forestry station, 24.6.–9.7.2013. I planned and carried out a field campaign, and supervised two research assistants with their field work. Resulted article: Majasalmi et al. (2015).
 -   Travel grant, Helsingin yliopiston rahastot, February 2012
 
 
+
 __9. Awards, prizes and honours__
 
 -   Stipend, Metsämiesten säätiö, Honor description: success in M.Sc. studies, March 2012.
+
 
 
 __10. Other academic merits__
@@ -91,11 +103,15 @@ __10. Other academic merits__
     - Remote Sensing of Environment   
     - Remote Sensing   
     - International Journal of Applied Earth Observation and Geoinformation  
-   
+    
+- Chair of a session "Cool forests as a resource" in International Boreal Forest Research  Association (IBFRA) 2018, Laxenburg, Austria, 17.–20.9.2018.  
+
+
 
 __11. Scientific and societal impact of research__
 
 -   Authored 8 and co-authored 3 refereed journal articles. See page [Publications](Publications.html)
+
 
 
 __12. Positions of trust in society and other societal merits__
@@ -103,8 +119,10 @@ __12. Positions of trust in society and other societal merits__
 -   Female foresters executive president of membership, [the Society of Finnish Female Professional Foresters](https://naismetsanhoitajat.com/in-english/), Spring 2014 - 2016. 
 
 
+
 __13. Other merits: International visits, conferences and seminars__
 
+-   Conference: International Boreal Forest Research  Association (IBFRA) 2018, Laxenburg, Austria, 17.–20.9.2018, Presentation: Forecasting forest management impacts on forest structure under changing climate.
 -   Seminar: Finnish-Estonian Remote Sensing seminar (FINEST) 2018, Tartu, Estonia, 4.–5.6.2018, Presentation: Spatiotemporal representation of forests in land surface models employed in climate research.
 -   Conference: European Geosciences Union (EGU) General Assembly 2018, Vienna, Austria, 8.–13.4.2018, Poster: Towards improved modeling of forest management in land surface models employed in climate research.
 -   Seminar: Finnish-Estonian Remote Sensing seminar (FINEST) 2017, Espoo, Finland, 18.–19.5.2017, Presentation: Application of 3D triangulations of airborne laser scanning data to estimate boreal forest leaf area index.
