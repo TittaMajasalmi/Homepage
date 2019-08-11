@@ -1,0 +1,15 @@
+blockquote {
+  font-style: italic
+}
+
+
+p {
+    margin: 0;
+    text-indent: 1.5cm
+}
+
+/* Whole document: */
+body{
+  font-family: Calibri Light;
+  font-size: 10pt;
+}
