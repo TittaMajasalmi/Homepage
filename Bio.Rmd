@@ -1,0 +1,28 @@
+---
+  title: "  Bio"
+
+---
+  
+ _In 2015, I was the youngest ever to defend a doctorate thesis in Forest_
+ _Resource Science and Technology in the history of the University of_
+ _Helsinki (HY). My doctoral dissertation dealt with physically based_
+ _vegetation remote sensing, focusing on developing ground reference_
+ _methods and validating different global satellite-based vegetation_
+ _products in a boreal region. After I completed my doctoral dissertation,_
+ _I had short research visit in USA (Duke university). Following 1.5-yr I_
+ _continued to work at the HY, during which I extended my expertise into_
+ _processing and applying airborne laser scanning data for quantifying_
+ _forest canopy structures. During my years in HY, I participated in_
+ _teaching remote sensing courses and leading GIS-practicals. Autumn 2016_
+ _I received postdoc position from the NIBIO (Norwegian Institute of_
+ _Bioeconomy research), in a project that targeted towards developing_
+ _methods for accounting forest management impacts in different land_
+ _surface model (LSM) simulations employing prescribed landcover_
+ _information. I developed a forest classification scheme and related_
+ _landcover product for enhancing the description of managed Fennoscandic_
+ _forests in different LSMs using Scandinavian forest inventory data. In_
+ _addition, I refined the 'time invariant optical properties'-table that_
+ _is used in LSM. Currently, I am working with landcover classification_
+ _and vegetation phenology topics._
+
+                                       

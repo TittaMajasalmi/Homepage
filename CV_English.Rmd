@@ -1,0 +1,185 @@
+---
+  title: " Academic CV"
+
+---
+
+- __Name:__  Titta Majasalmi 
+- __Jobtitle:__ Postdoctoral researcher 
+- __Address:__ Otakaari 4, 02150 Espoo, Finland 
+- __Postbox:__ PO BOX 14100, 00076 AALTO
+- __Email:__ titta.majasalmi[AT]aalto.fi
+- __Web:__ TittaMajasalmi.github.io 
+- __Online resources:__ 
+     - [Aalto University](https://people.aalto.fi/titta.majasalmi) 
+     - [Researchgate](https://www.researchgate.net/profile/Titta_Majasalmi) 
+     - [LinkedIn](https://fi.linkedin.com/in/titta-majasalmi-05a11095) 
+     - [University of Helsinki](https://tuhat.helsinki.fi/portal/en/persons/titta-majasalmi(df785017-27a0-4989-bf39-ef95fe8e9ba3).html) 
+     - [Google scholar](https://scholar.google.fi/citations?user=uTjEPyQAAAAJ&hl=en)
+     - [ORCID](https://orcid.org/0000-0002-0770-0136)
+     - [Twitter](https://twitter.com/df1875)
+      
+
+ 
+__1. Full name, Nationality, current residence and date__
+  
+- Majasalmi, Titta 
+- Finnish 
+- Helsinki, Finland
+- May 24, 2021
+
+
+__2. Education and degrees awarded__
+
+-   24.3.2015, Doctor of Science (Agriculture and Forestry), Forest Resource Science and Technology, University of Helsinki, Department of Forest Sciences, Faculty of Agriculture and Forestry, Helsinki, Finland. Faculty Office: P.O. Box 62 (Viikinkaari 11), FI-00014 University of Helsinki, tel. + 358 - 2941 58247
+-   18.3.2011, Master of Science (Agriculture and Forestry), Forest Resource Science and Technology, University of Helsinki, Department of Forest Sciences, Faculty of Agriculture and Forestry, Helsinki, Finland.
+ 
+
+
+__3. Other education and skills__
+
+-   26.–27.5.2021. Training course: Web GIS Enabled Spatial Analysis & Data Science with ArcGIS. 0.5 ECTS. CSC course, Espoo, Finland.
+-   9.9.–4.12.2019. Course: Machine learning with Python (CS-EJ3211, 2 ECTS), Aalto University, Espoo, Finland.
+-   10.09.–22.10.2019. Course: Machine learning: Basic principles (CS-E3210, 5 ECTS), Aalto University, Espoo, Finland.
+-   5.–6.11.2019. Training course: Practical machine learning for spatial data. 0.5 ECTS. CSC course, Espoo, Finland.
+-   4.11.2019. Training course: Geocomputing in Puhti Supercomputer. 0.5 ECTS. CSC course, Espoo, Finland.
+-   15.9.–20.9.2019. Education programme: Applications of Remote Sensing in the Baltic Sea Region (LTFY.TK.002, 2 ECTS). University of Tartu, Estonia.
+-   13.–14.10.2015. Graduate School Course in Geomatics, Global monitoring of the environment using satellite data. 1 ECTS. Espoo, Finland.
+-   6.–16.7.2015. Training course: Spectrometry of a Wetland And Modelling of Photosynthesis with hyperspectral airborne reflectance and fluorescence (SWAMP), Obrzycko Rzecin, Poland.
+-   15.4.–17.4.2015. Course: Project management and leadership (PML_10UH_2015, 2 ECTS), Doctoral School in Environmental, Food and Biological Sciences, Helsinki, Finland.
+-   30.9–4.10.2013. Course: NordBaltRemS PhD training on spatial statistics. 2 ECTS. Tartu, Estonia.
+-   16.–20.9.2013. Summer school: Modelling of ecosystems by tools from computer science 1 ECTS. Prague, Czech Republic.
+-   2.–8.6.2013. Summer school: Planning REDD inventory: Using existing databases, field work and remote sensing based concepts. 4 ECTS. Mekrijärvi, Finland.
+-   7.–12.7.2011. Summer school: COST Action ES0903, Summer school on optical sampling. 2 ECTS. Viote del Monte Bondone-Trento, Italy.
+-   21.8.–23.8.2010. Workshop: NASA Training workshop, Quantitative research methods in human dimensions of environmental change within Eastern Europe, Latvia. 
+
+
+
+__4. Linguistic skills__
+
+- Finnish (Native)
+- English 
+- Scandinavian
+
+
+
+__5. Current employment__
+
+-   1.8.2019–31.8.2021. Postdoctoral researcher, Aalto university, Aalto ENG postdoctoral funds, department of Built Environment, Espoo, Finland. Job description: Research and teaching
+
+
+
+__6. Previous work experience__
+
+-   29.8.2016–28.8.2019. Postdoctoral researcher, Research Council of Norway, grant number 250113/F20 (Integrating biogeophysical (BGP) mechanisms into assessments of boreal forest management impacts on climate), Norwegian Institute of Bioeconomy Research, Division for Forestry and Forest Resources, Forests and Climate, Ås, Norway. Job description: Research position.
+-   1.1.–30.06.2016. Postdoctoral researcher, University on Helsinki research project 490135 (Towards semi-supervised characterization and large-area planning of forest resources using airborne laser scanning data acquired for digital elevation modelling), University of Helsinki, Department of Forest Sciences, Helsinki, Finland. Job description: Research and teaching in Remote sensing (GIS) course.
+-   1.9.–31.12.2015. Postdoctoral researcher, research collaboration project GIMMEC (Geoinformatics for Monitoring and Modeling of Environmental Change), University of Helsinki, Department of Forest Sciences, Helsinki, Finland. Job description: Research and teaching in remote sensing (GIS) course.
+-   1.4.–31.7.2015. Postdoctoral researcher, Academy of Finland research project 1273016 (Physically-based remote sensing applications for forest ecosystems), University of Helsinki, Department of Forest Sciences, Helsinki, Finland. Job description: Research and teaching in remote sensing (GIS) course.
+-   20.4.2011–31.3.2015. Doctoral student, Academy of Finland research projects (Physically-based remote sensing applications for forest ecosystems, Seasonal reflectance changes of boreal forests), University of Helsinki, Department of Forest Sciences, Helsinki, Finland. Job description: research, teaching, project-type work, and reporting of the results.
+-   1.10.2010–31.3.2011. Research assistant, University of Helsinki, Department of Forest Sciences, Helsinki, Finland. Job description: pre-processing and analysis of optical field data, and work related to Master thesis.
+-   3.5.–30.9.2010. Research assistant, University of Helsinki, Hyytiälä forestry station, Finland. Job description: Field measurements with ASD FieldSpec Hand-Held UV/VNIR and LAI-2000 Plant Canopy Analyzer, and pre-processing of the data.
+-   15.8.2008–15.5.2009. Co-partner in Metsäylioppilaiden kuusikauppa K-99, Helsinki, Finland.  Job description: Selling, delivering, installing and decorating Christmas trees (up to 12 meters).
+-   23.6.–1.8.2008. Course assistant, University of Helsinki, Hyytiälä forestry station, Finland. Job description: Field course of forest mensuration (4 weeks) and of wood- and forest technology (2 weeks). Teaching small groups and correcting reports.
+
+
+__7.	Career breaks__
+
+-   No breaks. 
+
+
+
+
+__8. Research funding, grants__
+
+-   1.9.2019–31.8.2021. Aalto ENG postdoctoral position. ENG funding for 2-yrs.
+-   7.6.2019. PoDoCo research grant from Tekniikan Edistämissäätiö for a 1-yr research collaboration with Satellio Oy
+-   23.4.2012. Travel grant, Helsingin yliopiston rahastot. 
+
+
+
+__9.	Research outputs__
+
+-   I have authored 13, co-authored 3 refereed journal articles, and I have 1 data article. In addition, I have authored 4 popularized scientific articles, and a popularized scientific book chapter. My h-index is 11 (google scholar), total citation count is 425 (google scholar), and average citation per item is 18 (web of science) (21.5.2021).
+
+
+__10. Research leadership and supervision__
+
+-   24.6.2013 – 9.7.2013. Field work supervisor for two assistants (Anni-Sofia Hoppi, Johanna Karjalainen), University of Helsinki, Hyytiälä forestry station, Finland.
+
+
+
+__11.	Teaching merits__
+
+-  Pedagogical training: 
+    -   2.2.2021 – 8.4.2021. Course: A! Peda Intro (PED-131.1000, 5 ECTS), Aalto University, Espoo, Finland. 
+    -   10.9. – 30.10.2020. Course: Teaching assistant as a learning instructor (PED-131.9000, 2 ECTS), Aalto     University, Espoo, Finland. 
+    -   22.1. – 18.03.2020. Course: Philosophy and systems thinking (TU-A1150, 3 ECTS), Aalto University, Espoo, Finland. 
+
+-  Teaching experience:
+    -   In Aalto university (2019-2021) teaching in courses MAA-C2001 (Ympäristotiedon keruu), RYM-C2003 (Rakennetun ympäristön mittaus, simulointi ja mallinnus) and preparing/leading GIS practicals on courses MAA-C2001 and ENY-C005 (Geoinformation in environmental modelling).
+    -   In University of Helsinki (2008-2016): acting as a research assistant/small group leader in courses MARV1 (Metsänarvioinnin perusteet kenttäkurssi, 2008) and METEK12 (Metsä- ja puuteknologian perusteiden kenttäkurssi, 2008), and participating to lecturing and leading GIS-practicals in courses Remote sensing 1 (2013-2015) and RS201 (Advanced studies of remote sensing, 2015-2016).
+
+
+__12.	Awards and Recognitions__
+
+-  15.3.2012. Stipend, Metsämiesten säätiö, Honor description: success in M.Sc. studies. 
+
+
+
+__13.	Most significant other academic merits__
+
+-   17.–20.9.2018. Chair of a session “Cool forests as a resource” in International Boreal Forest Research Association (IBFRA) 2018, Laxenburg, Austria.
+-   Referee for:
+    -   Remote Sensing of Environment
+    -   Science of Remote Sensing
+    -   Forest Ecology and Management
+    -   Agricultural and Forest Meteorology
+    -   Remote Sensing
+    -   International Journal of Applied Earth Observation and Geoinformation
+    -   Silva Fennica
+    -   Forests
+    -   Canadian Journal of Forest Research
+
+    
+    
+
+__14. Scientific and social impact__
+
+-  Promoting open science and research (Published openly available research data):
+    -   Mottus, M., Markiet, V., Hernandez-Clemente, R., Perheentupa, V., Majasalmi, T. (2021). SPYSTUF hyperspectral data. IEEE Dataport. https://dx.doi.org/10.21227/v5vh-2816 
+    -   Majasalmi, T., Rautiainen, M. (2020). Dataset of tree canopy structure and variation in understory composition in a boreal forest site. Mendeley Data. https://doi.org/10.17632/dyt4nkp583.1 
+    -   Majasalmi, T. (2018). Enhanced LC-product for Fennoscandia. BIRD. https://doi.org/10.21350/c9j08bz3
+    
+-  Authored 4 popularized scientific articles and co-authored 1 scientific article. In addition, I have published a popularized scientific book chapter.
+-  Mentoring a postdoc at Aalto University, 15.10.2019 – 15.2.2020.
+-  Lecturer in a [Meet a researcher -service](https://nuortentiedeakatemia.fi/en/meet-a-researcher/) by Young Academy of Finland since Autumn 2019.
+-  Participated on collecting and posting news to Aalto-yliopiston geoinformatiikka @AaltoGeoinfo twitter account since summer early autumn 2019. I am also using my own twitter account (@df1875) to promote science.
+
+
+
+__15.	Other merits__
+
+-  In 2015, I was the youngest ever to defend a doctorate thesis in Forest Resource Science and Technology in the history of University Helsinki. 
+-  Female foresters executive president of membership, [the Society of Finnish Female Professional Foresters](https://naismetsanhoitajat.com/in-english/), Spring 2014 - 2016.
+-  20.4.–15.5.2015. Visiting researcher, Duke University, Nicholas School of Environment, Durham NC, USA, Job description: Estimation LAI, fPAR and of above ground biomass using satellite data, field data and ALS data, field work at Calhoun (SC, USA) research site. Poster: Estimation of LAI, fPAR and AGB based on data from Landsat 8 and LiDAR at the Calhoun CZO in Calhoun CZO 2015 Summer Science Meeting.
+
+
+__16. International conferences and seminars__
+
+-  Since 2011 I have participated for 17 scientific conferences or seminars (i.e. AGU, EGU, IBFRA, FINEST, ForestSAT, CzechGlobe, EFINORD-SNS), where I have had 10 oral presentations and 8 poster presentations. In august 2021 I will have oral presentation in IBFRA.
+-  19.–30.4.2021. Conference: European Geosciences Union (EGU) General Assembly 2021, Vienna, Austria. vPICO: A new approach for improving representation of boreal forest phenology in land surface models.
+-  23.–24.5.2019. Seminar: Finnish-Estonian Remote Sensing seminar (FINEST) 2019, Aalto campus, Espoo. Presentation: Evaluation of leaf-level optical properties employed in land surface models.
+-  7.–12.4.2019. Conference: European Geosciences Union (EGU) General Assembly 2019, Vienna, Austria. Poster: A note on optical properties of plant functional types employed in land surface modeling and weather and climate research.
+-  17.–20.9.2018. Conference: International Boreal Forest Research  Association (IBFRA) 2018, Laxenburg, Austria. Presentation: Forecasting forest management impacts on forest structure under changing climate.
+-  4.–5.6.2018. Seminar: Finnish-Estonian Remote Sensing seminar (FINEST) 2018, Tartu, Estonia. Presentation: Spatiotemporal representation of forests in land surface models employed in climate research.
+-  8.–13.4.2018. Conference: European Geosciences Union (EGU) General Assembly 2018, Vienna, Austria. Poster: Towards improved modeling of forest management in land surface models employed in climate research.
+-  18.–19.5.2017. Seminar: Finnish-Estonian Remote Sensing seminar (FINEST) 2017, Espoo, Finland. Presentation: Application of 3D triangulations of airborne laser scanning data to estimate boreal forest leaf area index.
+-  24.–29.5.2015. Conference: Towards the new era of forest science in boreal region (IBFRA 2015), Rovaniemi, Finland. Presentation: Satellite-based estimation of boreal forest fPAR.
+-  23.3.–24.3.2015. Conference: CzechGlobe: Global change: a complex challenge, Brno, Czech Republic. Poster: Validation of remotely sensed fPAR in a boreal forest site.
+-  18.3.2015. Seminar: The annual exclusive Finnish-Estonian remote sensing seminar ( FINEST) 2015, Helsinki, Finland. Presentation: Estimation of LAI and fPAR in a boreal forest.
+-  4.–7.11.2014. Conference: ForestSAT 2014. Riva del Garda, Italy.  Presentation and a poster: Validation of satellite-based fPAR in a boreal forest site.
+-  8.5.2014. Seminar: The annual exclusive Finnish-Estonian remote sensing seminar (FINEST) 2014, Tartu, Estonia. Presentation: Validation of satellite-based fPAR products in a boreal forest site.
+-  27.4.–2.5.2014. Conference: European Geosciences Union (EGU) General Assembly 2014, Vienna, Austria. Poster: A new model for estimating boreal forest fPAR.
+-  21.–23.8.2013. Conference: The Nordic-Baltic co-operation group for forest inventory EFINORD-SNS network meeting and scientific conference, Kaunas, Lithuania. Poster: An assessment of ground reference methods for estimating LAI of boreal forests.
+-  3.–7.12.2012. Conference: American Geophysical Union (AGU) Fall Meeting 2012, California. Participant.
+-  9.5.2012. Seminar: Finnish-Estonian seminar on remote sensing (FINEST) 2012, Tartu, Estonia. Presentation: Allometric and optical LAI.
+-  5.–9.12.2011. Conference: American Geophysical Union (AGU) Fall Meeting 2011, California. Poster: Seasonal course of boreal forest reflectance.
